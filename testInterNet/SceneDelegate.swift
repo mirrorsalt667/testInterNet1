@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  testInterNet
 //
-//  Created by 黃肇祺 on 2021/5/16.
+//  Created on 2021/5/16.
 //
 
 import UIKit
